@@ -119,7 +119,7 @@
 
 ## Удобный просмотр в Web
 
-Для удобного просмотра в Web-браузере используйте [эту версию курса](https://nbviewer.org/github/Muzalevsky/ml_edu/blob/master/index.ipynb).
+Для удобного просмотра в Web-браузере используйте [эту версию курса](https://nbviewer.org/github/Muzalevsky/ml_edu/blob/main/index.ipynb).
 
 Там есть и содержание курса.
 
